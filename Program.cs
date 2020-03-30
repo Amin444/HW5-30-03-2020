@@ -47,18 +47,59 @@ namespace HW_30._03._2020
 
                 //Равнобедреный треугольник
                
+        //         int s = 0, t = 10;
+        //     for (int i = t; i >= 0; i--)
+        //     {
+        //         s++;
+        //         for (int x = t; x >= 0; x--)
+        //         {
+        //             Console.Write(" ");
+        //         }
+        //         t--;
+        //         for (int y = 0; y < s; y++)
+        //         {
+        //             Console.Write("* ");
+        //         }
+        //         System.Console.WriteLine();
+        //     }
 
-
-
-
-
-
-
-
+        //     //Ромб
+        //   int   g = 5;
+        //   int  q = 0;
+        //     for (int i = g; i >= 0; i--)
+        //     {
+        //         q++;
+        //         for (int x = g; x >= 0; x--)
+        //         {
+        //             Console.Write(" ");
+        //         }
+        //         g--;
+        //         for (int y = 0; y < q; y++)
+        //         {
+        //             Console.Write("* ");
+        //         }
+        //         System.Console.WriteLine();
+        //     }
+        //     g = 5;
+        //     q = 0;
+        //     for (int i = 0; i <= 5; i++)
+        //     {
+        //         q++;
+        //         for (int x = 0; x <= q; x++)
+        //         {
+        //             Console.Write(" ");
+        //         }
+        //         g--;
+        //         for (int y = g; y >= 0; y--)
+        //         {
+        //             Console.Write("* ");
+        //         }
+        //         System.Console.WriteLine();
+        //     }
 
                //Task 4
                
-                while (true)
+               /* while (true)
                 {
                 System.Console.WriteLine("Введите число р которая: 0<p<25!");
                     
@@ -81,11 +122,18 @@ namespace HW_30._03._2020
                {
                    System.Console.WriteLine("Вы ошиблись попробуйти еще раз :-0");
                }
-                }
+                }*/
+                    Console.ReadKey();
+
+
+
+
+
+
+
                     
 
 
-                    Console.ReadKey();
                
             
                     
